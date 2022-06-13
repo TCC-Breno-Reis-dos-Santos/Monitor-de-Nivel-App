@@ -1,0 +1,7 @@
+{
+  "appId": "org.capacitor.monitordenivel.app",
+  "appName": "Monitor de Nivel",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
